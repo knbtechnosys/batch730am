@@ -4,6 +4,6 @@
   tasks:
     - name: i want to install openjdk 8 on ubuntu node
       apt:
-        name: openjdk-9-jre
+        name: openjdk-11-jre
         state: present
      # when: ansible_os_family== "Debian"
