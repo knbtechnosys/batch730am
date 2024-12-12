@@ -4,5 +4,5 @@
 
 
 [application:vars]
-myjavapackageversion= openjdk-11-jdkkk
+myjavapackageversion= openjdk-11-jdk
 
