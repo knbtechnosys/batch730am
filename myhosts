@@ -1,1 +1,8 @@
+[application]
 172.31.28.241
+
+
+
+[application:vars]
+myjavapackageversion= openjdk-11-jdkkk
+
